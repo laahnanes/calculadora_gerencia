@@ -7,5 +7,7 @@ public class Conversoes {
     public static double converterCentimetrosParaMetros(double centimetros) {
         return centimetros / 100;
     }
-
+    public static double converterMetrosParaQuilometros(double metros) {
+        return metros / 1000;
+    }
 }
