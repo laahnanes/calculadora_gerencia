@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d54eb401-af51-41cc-aca0-d8b5fa0d1ed1" name="Changes" comment="" />
+    <list default="true" id="d54eb401-af51-41cc-aca0-d8b5fa0d1ed1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/scr/imagens/conversao1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/imagens/conversao2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/imagens/mergelarah.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RELATORIO.md" beforeDir="false" afterPath="$PROJECT_DIR$/RELATORIO.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +55,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "features/larah",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/larah/Documentos/Faculdade/calculadora_gerencia",
