@@ -10,4 +10,7 @@ public class Conversoes {
     public static double converterMetrosParaQuilometros(double metros) {
         return metros / 1000;
     }
+    public static double converterQuilometrosParaMetros(double quilometros) {
+        return quilometros * 1000;
+    }
 }
