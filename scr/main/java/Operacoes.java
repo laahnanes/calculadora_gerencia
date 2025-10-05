@@ -33,4 +33,13 @@ public class Operacoes {
     public double potencia (double a, double b) {
         return Math.pow(a, b);
     }
+
+    public double raizQuadrada(double a, double b) {
+        if (b < 0) {
+            System.out.println("Erro: índice da raiz não pode ser menor que zero");
+            return 0;
+        }
+        return Math.pow(a, 1.0 / b);
+    }
+
 }
