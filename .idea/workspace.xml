@@ -5,20 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d54eb401-af51-41cc-aca0-d8b5fa0d1ed1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/scr/imagens/commithotfix.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/imagens/commitmultiplicar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/imagens/commitresolucao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/imagens/conflito1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/imagens/conflitoidea.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/imagens/criacaodevelop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/imagens/criacaohotfix.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/imagens/criacaomain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/imagens/criacaotaghotfix.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/imagens/integrarhotfixdevelop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/imagens/integrarhotfixmain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/imagens/repositorio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/imagens/resolucao1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RELATORIO.md" beforeDir="false" afterPath="$PROJECT_DIR$/RELATORIO.md" afterDir="false" />
     </list>
