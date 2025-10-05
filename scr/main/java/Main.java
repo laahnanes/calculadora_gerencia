@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Digite o primeiro número: ");
         double num1 = scanner.nextDouble();
 
-        System.out.println("Digite a operação (+. -, *, /): ");
+        System.out.println("Digite a operação (+. -, *, /, ^): ");
         char operacao = scanner.next().charAt(0);
 
         System.out.println("Digite o segundo número: ");
@@ -29,6 +29,9 @@ public class Main {
                     break;
                 case '/':
                     resultado = operacoes.divisao(num1, num2);
+                    break;
+                case '^':
+                    resultado = operacoes.potencia(num1, num2);
                     break;
                 default:
                     System.out.println("Operação incorreta.");

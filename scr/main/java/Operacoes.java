@@ -29,4 +29,8 @@ public class Operacoes {
 
         return a * multiplicar(a, b - 1);
     }
+
+    public double potencia (double a, double b) {
+        return Math.pow(a, b);
+    }
 }
