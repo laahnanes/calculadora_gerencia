@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d54eb401-af51-41cc-aca0-d8b5fa0d1ed1" name="Changes" comment="" />
+    <list default="true" id="d54eb401-af51-41cc-aca0-d8b5fa0d1ed1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/RELATORIO.md" beforeDir="false" afterPath="$PROJECT_DIR$/RELATORIO.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +36,7 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="33c8pumhSv8Dib0R6S2K4qLipFt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,7 +45,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "Merging develop",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/larah/Documentos/Faculdade/calculadora_gerencia",
