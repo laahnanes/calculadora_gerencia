@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d54eb401-af51-41cc-aca0-d8b5fa0d1ed1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/RELATORIO.md" beforeDir="false" afterPath="$PROJECT_DIR$/RELATORIO.md" afterDir="false" />
-    </list>
+    <list default="true" id="d54eb401-af51-41cc-aca0-d8b5fa0d1ed1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +43,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging develop",
+    "git-widget-placeholder": "develop",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/larah/Documentos/Faculdade/calculadora_gerencia",
